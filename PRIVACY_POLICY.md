@@ -1,37 +1,35 @@
-## Shake Alarm Clock: Privacy policy
+## Fiscalis: Privacy policy
+Política de Privacidade
 
-Welcome to the Shake Alarm Clock app for Android!
+Welcome to the Fiscalis app for Android!
+Bemvindo ao app Fiscalis para Android
 
-This is an open source Android app developed by Wrichik Basu. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
+This is an app to access the functionalities of Fiscalis report and document management tool.
 
-As an avid Android user myself, I take privacy very seriously.
-I know how irritating it is when apps collect your data without your knowledge.
+This app does not colletc any data without your knowledge, the only information we store in ours databases are the ones provided by you or your employer during user registration and the content of the reports filled in during the use of this tool. 
+Este app não armazena nenhuma informação sem o seu conhecimento, as únicas informações armazenadas em nossos bancos de dados são aquelas fornecidas por você ou seu empregador no momento do cadastro de usuários e aquelas contidas nos relatórios preenchidos durante o uso desta ferramenta.
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.) and alarms) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Nothing that is stored in our databases are distributed to other parties. NEVER!
+Nada que armazenamos em nossos bancos de dados é distribuido para outras partes. NUNCA!
 
 ### Explanation of permissions requested in the app
+Explicação das permissões solicitadas no app
 
-The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
+The list of permissions required by the app can be found below:
+- Internet access: for accessing our server
+- Storage access: for uploading and downloading photos and files
 
-https://github.com/WrichikBasu/ShakeAlarmClock/blob/1031bad5edd2e73eda091cd1e84746f4710c7528/app/src/main/AndroidManifest.xml#L7-L15
+- Acesso à internet: para acesso ao nossos servidores
+- Acesso ao armazenamento do dispositivo: para upload e download de fotos e arquivos
 
-<br/>
+All permission can be revocked at any time by accessing Settings on yor device.
+Todas as permições podem ser removidas através do menu de Configurações de seu dispositivo.
 
-| Permission | Why it is required |
-| :---: | --- |
-| `android.permission.SCHEDULE_EXACT_ALARM` | This is required to schedule an exact alarm, and was introduced in Android 12. You, as the user, or the system, can revoke this permission at any time from Settings. Revoking this permission will, however, kill the app immediately if it was alive, and cancel all alarms set by the app. |
-| `android.permission.VIBRATE` | Required to vibrate the device when alarm is ringing. Permission automatically granted by the system; can't be revoked by user. |
-| `android.permission.WAKE_LOCK` and `android.permission.DISABLE_KEYGUARD` | Required to show alarm screen when alarm is ringing. Permission automatically granted by the system; can't be revoked by user. |
-| `android.permission.FOREGROUND_SERVICE` | Enables the app to create foreground services that will ring the alarm and keep it snoozed. Permission automatically granted by the system; can't be revoked by user. |
-| `android.permission.SET_ALARM` | Required to set alarms, whether exact or inexact. Permission automatically granted by the system; can't be revoked by user. |
-| `android.permission.READ_EXTERNAL_STORAGE` | The only sensitive permission that the app requests, and can be revoked by the system or the user at any time. This is required only if you want to set a custom alarm tone that is different from the default alarm tone of your phone. In order to read tones other than the default ones, the app needs permission to read the storage. Setting a custom tone but revoking this permission later _may_ cause the app to crash at the time the alarm rings when a security exception occurs while reading the tone. |
-| `android.permission.RECEIVE_BOOT_COMPLETED` | When your device restarts, all alarms set in the system are lost. This permission enables the app to receive a message from the system once the system has rebooted and you have unlocked your device the first time. When this message is received, the app creates a service to set all the active alarms in the system.|
 
- <hr style="border:1px solid gray">
+If you find any security vulnerability that has been inadvertently caused by us, or have any question regarding how the app protectes your privacy, please send me an email, and we will surely try to fix it/help you.
+Se você localizar alguma vulnerabilidade de seguraça que tenha sido inadvertidamente causada por nós, ou tenha alguma pergunta sobre como este app protege sua segurança, por favor envie um e-mail e nós ceramente tentaremos fazer a correção ou ajudá-lo.
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
-
-Yours sincerely,  
-Wrichik Basu.  
-Kolkata, India.  
-basulabs.developer@gmail.com
+ 
+Matheus Marchenta 
+São Paulo-Brazil
+marchtecnologia@gmail.com

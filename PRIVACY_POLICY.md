@@ -1,8 +1,8 @@
 ## Fiscalis: Privacy policy
 Política de Privacidade
 
-Welcome to the Fiscalis app for Android!
-<<PT-BR>>Bemvindo ao app Fiscalis para Android
+Welcome to the Fiscalis app for Android!<br>
+Bemvindo ao app Fiscalis para Android
 
 This is an app to access the functionalities of Fiscalis report and document management tool.
 

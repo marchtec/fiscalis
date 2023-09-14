@@ -19,6 +19,8 @@ Explicação das permissões solicitadas no app
 The list of permissions required by the app can be found below:
 - Internet access: for accessing our server
 - Storage access: for uploading and downloading photos and files
+
+A lista de permissões requeridas por este app estão abaixo:
 - Acesso à internet: para acesso ao nossos servidores
 - Acesso ao armazenamento do dispositivo: para upload e download de fotos e arquivos
 

@@ -19,10 +19,12 @@ Explicação das permissões solicitadas no app
 The list of permissions required by the app can be found below:
 - Internet access: for accessing our server
 - Storage access: for uploading and downloading photos and files
+- Camera access: for taking pictures (upload)
 
 A lista de permissões requeridas por este app estão abaixo:
 - Acesso à internet: para acesso aos nossos servidores
 - Acesso ao armazenamento do dispositivo: para upload e download de fotos e arquivos
+- Acesso à câmera: para tirar fotos (upload)
 
 All permission can be revoked at any time by accessing Settings on your device.<br />
 Todas as permissões podem ser removidas através do menu de Configurações de seu dispositivo.

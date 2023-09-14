@@ -21,15 +21,15 @@ The list of permissions required by the app can be found below:
 - Storage access: for uploading and downloading photos and files
 
 A lista de permissões requeridas por este app estão abaixo:
-- Acesso à internet: para acesso ao nossos servidores
+- Acesso à internet: para acesso aos nossos servidores
 - Acesso ao armazenamento do dispositivo: para upload e download de fotos e arquivos
 
 All permission can be revocked at any time by accessing Settings on yor device.__
-Todas as permições podem ser removidas através do menu de Configurações de seu dispositivo.
+Todas as permissões podem ser removidas através do menu de Configurações de seu dispositivo.
 
 
 If you find any security vulnerability that has been inadvertently caused by us, or have any question regarding how the app protectes your privacy, please send me an email, and we will surely try to fix it/help you.<br />
-Se você localizar alguma vulnerabilidade de seguraça que tenha sido inadvertidamente causada por nós, ou tenha alguma pergunta sobre como este app protege sua segurança, por favor envie um e-mail e nós ceramente tentaremos fazer a correção ou ajudá-lo.
+Se você localizar alguma vulnerabilidade de segurança que tenha sido inadvertidamente causada por nós, ou tenha alguma pergunta sobre como este app protege sua segurança, por favor envie um e-mail e nós certamente tentaremos fazer a correção ou ajudá-lo.
 
  
 Matheus Marchenta <br />
